@@ -1,3 +1,3 @@
-include_recipe 'opstest::user.rb'
-include_recipe 'opstest:group.rb'
+include_recipe 'opstest::user'
+include_recipe 'opstest:group'
 
